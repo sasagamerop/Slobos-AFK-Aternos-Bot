@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ktaharu-7Bgr.aternos.me",
+    "port": 44539,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sasa dai k hunun xa?",
+        "badi bolne hoina hai m*ji haru ",
+        "dada ho ma tero"
+        
       ]
     },
     "chat-log": true,
